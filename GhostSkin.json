@@ -1,0 +1,10 @@
+{
+  "skins": [
+    {
+      "id": "ghost_skin",
+      "name": "Ghost Warrior",
+      "enabled": true,
+      "end_date": "2025-05-13T23:59:59Z"
+    }
+  ]
+}
